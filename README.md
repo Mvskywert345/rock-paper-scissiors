@@ -1,0 +1,1 @@
+This is a simple console-based Rock-Paper-Scissors game written in Java. The player competes against the AI, and the game continues until the player decides to stop. It's a fun way to practice basic Java programming skills, including handling user input, using loops, and applying conditional logic.
